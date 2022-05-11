@@ -1,0 +1,21 @@
+html {
+    box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+}
+
+body {
+    font-family: var(--roboto-font-family);
+    background-color: #ffffff;
+    color: var(--title-color);
+
+}
+
+
+.link {
+    text-decoration: none;
+}
